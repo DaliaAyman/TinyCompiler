@@ -1,6 +1,6 @@
 # TinyCompiler
-Compilers course project, Java
-
+Design of Compilers, 
+course project, Java,
 Spring 2014
 
 - TinyScanner
